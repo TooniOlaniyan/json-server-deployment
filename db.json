@@ -66,7 +66,7 @@
   ],
   "favourites": [
     {
-      "id": "1",
+      "id": "8",
       "name": "Apple Watch Series 4",
       "price": 120.0,
       "image": "/images/applewatch.png",
@@ -75,7 +75,7 @@
       "isFavorite": true
     },
     {
-      "id": "2",
+      "id": "9",
       "name": "Air-Max-270",
       "price": 60.0,
       "image": "/images/applewatch.png",
@@ -84,7 +84,7 @@
       "isFavorite": false
     },
     {
-      "id": "2",
+      "id": "10",
       "name": "Air-Max-270",
       "price": 24.59,
       "image": "/images/applewatch.png",
@@ -93,7 +93,7 @@
       "isFavorite": false
     },
     {
-      "id": "2",
+      "id": "11",
       "name": "Amazfit Vip",
       "price": 60.0,
       "image": "/images/applewatch.png",
@@ -102,7 +102,7 @@
       "isFavorite": false
     },
     {
-      "id": "2",
+      "id": "12",
       "name": "Gumbo Mouse",
       "price": 60.0,
       "image": "/images/applewatch.png",
@@ -111,7 +111,7 @@
       "isFavorite": false
     },
     {
-      "id": "2",
+      "id": "13",
       "name": "Camera Tripod",
       "price": 60.0,
       "image": "/images/applewatch.png",
